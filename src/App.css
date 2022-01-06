@@ -50,6 +50,9 @@
   width: 90%;
   float: left;
 }
+.row-content-text{
+  font-family: 'Roboto Mono' !important;
+}
 .skewed {
   position: absolute;
   top: 0;
